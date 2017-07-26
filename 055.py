@@ -1,0 +1,3 @@
+# 55 - Explique o que são Tuplas.
+# As listas funcionam bem para armazenar conjuntos de itens que podem mudar ao longo do programa. A capacidade de modificar listas é importante.
+# As vezes você quer criar uma lista de itens que não podem mudar, as Tuplas permitem que você faça exatamente isso. Python se refere a valores que não podem mudar como imutável, e uma lista imutável é chamada de uma Tupla.
