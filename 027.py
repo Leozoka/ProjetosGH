@@ -1,2 +1,5 @@
 colors = ['white', 'black', 'red']
-print(len(colors[0]))
+elem1 = len(colors)
+elem2 = 'white'
+print('Quantidade de palavras na lista: ' + str(elem1))
+print('Quantidade de caracteres em alguma das palavras: ' + str(len(elem2)))
